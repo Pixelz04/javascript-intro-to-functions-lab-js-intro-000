@@ -20,4 +20,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma('hello!')
+var lowercase = 'hello!'
